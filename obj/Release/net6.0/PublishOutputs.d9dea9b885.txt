@@ -1,0 +1,5 @@
+/mnt/c/Users/mucahit.celikyay/App/bin/Release/net6.0/publish/DotNet.Docker
+/mnt/c/Users/mucahit.celikyay/App/bin/Release/net6.0/publish/DotNet.Docker.dll
+/mnt/c/Users/mucahit.celikyay/App/bin/Release/net6.0/publish/DotNet.Docker.deps.json
+/mnt/c/Users/mucahit.celikyay/App/bin/Release/net6.0/publish/DotNet.Docker.runtimeconfig.json
+/mnt/c/Users/mucahit.celikyay/App/bin/Release/net6.0/publish/DotNet.Docker.pdb
