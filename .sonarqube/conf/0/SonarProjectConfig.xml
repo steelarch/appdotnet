@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SonarProjectConfig xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns="http://www.sonarsource.com/msbuild/analyzer/2021/1">
+  <AnalysisConfigPath>/mnt/c/Users/mucahit.celikyay/appdotnet/.sonarqube/conf/SonarQubeAnalysisConfig.xml</AnalysisConfigPath>
+  <ProjectPath>/mnt/c/Users/mucahit.celikyay/appdotnet/DotNet.Docker.csproj</ProjectPath>
+  <FilesToAnalyzePath>/mnt/c/Users/mucahit.celikyay/appdotnet/.sonarqube/conf/0/FilesToAnalyze.txt</FilesToAnalyzePath>
+  <OutPath>/mnt/c/Users/mucahit.celikyay/appdotnet/.sonarqube/out/0</OutPath>
+  <ProjectType>Product</ProjectType>
+  <TargetFramework>net6.0</TargetFramework>
+</SonarProjectConfig>

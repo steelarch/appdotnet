@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/mnt/c/Users/mucahit.celikyay/App/DotNet.Docker.csproj",
+      "projectUniqueName": "/mnt/c/Users/mucahit.celikyay/appdotnet/DotNet.Docker.csproj",
       "projectName": "DotNet.Docker",
-      "projectPath": "/mnt/c/Users/mucahit.celikyay/App/DotNet.Docker.csproj",
+      "projectPath": "/mnt/c/Users/mucahit.celikyay/appdotnet/DotNet.Docker.csproj",
       "packagesPath": "/home/steelarch/.nuget/packages/",
-      "outputPath": "/mnt/c/Users/mucahit.celikyay/App/obj/",
+      "outputPath": "/mnt/c/Users/mucahit.celikyay/appdotnet/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/steelarch/.nuget/NuGet/NuGet.Config"

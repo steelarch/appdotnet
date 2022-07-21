@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "NHtnwVD03zsOnLYqHxefUpca9etDxg5CWxjLK/kQ6Snu6AUeWEBsVpfUhd6KWPQwAYhIpL/057Vg0LQezVRl1w==",
+  "dgSpecHash": "XLChHHNWie7qKyCApu9qPvTd2lpoEQajqJ6L70FMgmEPAuFumrHMfUMy5C3fa+JHAWkAv45Mc562dBhVw8uETQ==",
   "success": true,
-  "projectFilePath": "/mnt/c/Users/mucahit.celikyay/App/DotNet.Docker.csproj",
+  "projectFilePath": "/mnt/c/Users/mucahit.celikyay/appdotnet/DotNet.Docker.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

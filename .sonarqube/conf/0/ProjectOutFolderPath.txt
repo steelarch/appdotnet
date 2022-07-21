@@ -1,0 +1,1 @@
+/mnt/c/Users/mucahit.celikyay/appdotnet/.sonarqube/out/0

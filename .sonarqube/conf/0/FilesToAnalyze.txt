@@ -1,0 +1,4 @@
+﻿/mnt/c/Users/mucahit.celikyay/appdotnet/Program.cs
+/mnt/c/Users/mucahit.celikyay/appdotnet/.dockerignore
+/mnt/c/Users/mucahit.celikyay/appdotnet/Dockerfile
+/mnt/c/Users/mucahit.celikyay/appdotnet/Jenkinsfile
