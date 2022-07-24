@@ -4,7 +4,7 @@ pipeline {
         IMAGENAME='steelarch/appdot'
         MAJOR='1'
         MINOR='0'
-        scannerHome = tool 'sonarqube'
+        scannerHome = tool 'SonarScanner-for-MSBuild'
     }
     stages {
         stage('checkout code repo') {
