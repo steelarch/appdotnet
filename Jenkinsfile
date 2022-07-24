@@ -4,7 +4,7 @@ pipeline {
         IMAGENAME='steelarch/appdot'
         MAJOR='1'
         MINOR='0'
-        scannerHome = tool 'dotnet-sonarscanner'
+        scannerHome = tool 'sonarqube'
     }
     stages {
         stage('checkout code repo') {
@@ -41,5 +41,3 @@ pipeline {
         }
     }
 }
-
-
